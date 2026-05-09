@@ -1,0 +1,11 @@
+{
+  "name": "SpiritWolf Token",
+  "symbol": "SPIRIT",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "Native token of the Spirit Wolf ecosystem by WolfMan.",
+  "website": "https://spiritwolf3397.github.io/spirit-wolf",
+  "explorer": "https://polygonscan.com/token/0xec5E56058494F2cb260Fd7D81B15f04872dbC34a",
+  "status": "active",
+  "id": "0xec5E56058494F2cb260Fd7D81B15f04872dbC34a"
+}
