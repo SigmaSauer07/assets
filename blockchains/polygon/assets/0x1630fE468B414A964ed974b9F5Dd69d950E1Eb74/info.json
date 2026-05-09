@@ -1,0 +1,11 @@
+{
+  "name": "Alsania Token",
+  "symbol": "ALSA",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "Sovereign token of the Alsania ecosystem with anti-sweeper protocol and staking rewards.",
+  "website": "https://alsania-io.com",
+  "explorer": "https://polygonscan.com/token/0x1630fE468B414A964ed974b9F5Dd69d950E1Eb74",
+  "status": "active",
+  "id": "0x1630fE468B414A964ed974b9F5Dd69d950E1Eb74"
+}
